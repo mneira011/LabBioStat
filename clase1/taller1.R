@@ -20,6 +20,6 @@ cat("log(prueba^2/(3*prueba^4)):\n",log(prueba^2/(3*prueba^4)),"\n\n")
 cat("PUNTO2:\n\n")
 
 help.search("correlation")
-break
+
 
 cat("hola")
